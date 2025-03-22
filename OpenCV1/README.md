@@ -1,4 +1,4 @@
-OPENCV1 project analysis and methods used in code.
+## OPENCV1 project analysis and methods used in code.
 Report on Libraries and Techniques Used in the Provided OpenCV Code
 
 
